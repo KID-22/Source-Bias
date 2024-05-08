@@ -1,0 +1,8 @@
+python==3.10.13
+pandas==2.1.4
+scikit-learn==1.3.2
+evaluate==0.4.1
+sentence-transformers==2.2.2
+spacy==3.7.2
+tiktoken==0.5.2
+pytrec-eval==0.5
