@@ -7,6 +7,8 @@ The official repository of the paper "LLMs may Dominate Information Access: Neur
 
 ## Citation
 ```
+If you find our code or work useful for your research, please cite our work.
+
 @article{dai2023llms,
   title={Llms may dominate information access: Neural retrievers are biased towards llm-generated texts},
   author={Dai, Sunhao and Zhou, Yuqi and Pang, Liang and Liu, Weihao and Hu, Xiaolin and Liu, Yong and Zhang, Xiao and Xu, Jun},
