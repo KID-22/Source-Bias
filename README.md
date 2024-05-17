@@ -1,6 +1,6 @@
 # LLM4IR-Bias
 
-The official repository of the paper "LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts".  [[arXiv](http://arxiv.org/abs/2310.20501)] 
+The official repository of the KDD 2024 paper "Neural Retrievers are Biased Towards LLM-Generated Content".  [[arXiv](http://arxiv.org/abs/2310.20501)] 
 
 &#x1F4A1; We will update more results and datasets in a few weeks!
 
