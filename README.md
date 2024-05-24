@@ -1,4 +1,4 @@
-# LLM4IR-Bias
+# Source Bias
 
 The official repository of the KDD 2024 paper "Neural Retrievers are Biased Towards LLM-Generated Content".  [[arXiv](http://arxiv.org/abs/2310.20501)] 
 
@@ -9,11 +9,11 @@ The official repository of the KDD 2024 paper "Neural Retrievers are Biased Towa
 If you find our code or work useful for your research, please cite our work.
 
 ```
-@article{dai2023llms,
-  title={Llms may dominate information access: Neural retrievers are biased towards llm-generated texts},
-  author={Dai, Sunhao and Zhou, Yuqi and Pang, Liang and Liu, Weihao and Hu, Xiaolin and Liu, Yong and Zhang, Xiao and Xu, Jun},
-  journal={arXiv preprint arXiv:2310.20501},
-  year={2023}
+@article{dai2024neural,
+  title={Neural Retrievers are Biased Towards LLM-Generated Content},
+  author={Dai, Sunhao and Zhou, Yuqi and Pang, Liang and Liu, Weihao and Hu, Xiaolin and Liu, Yong and Zhang, Xiao and Wang, Gang and Xu, Jun},
+  journal={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2024}
 }
 ```
 
