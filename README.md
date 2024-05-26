@@ -2,8 +2,13 @@
 
 The official repository of the KDD 2024 paper "Neural Retrievers are Biased Towards LLM-Generated Content".  [[arXiv](http://arxiv.org/abs/2310.20501)] 
 
-&#x1F4A1; We will update more results and datasets in a few weeks!
+🌟 New Release!🌟 Check out our latest project, "Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration" at [GitHub](https://github.com/KID-22/Cocktail). This extensive benchmark includes 16 datasets, over ten popular retrieval models, and easy-to-use evaluation tools. Please dive into our repository for more details!
 
+<!--
+## News
++ 
++ **[2024-05-17]** Our paper has been accepted by KDD 2024 (Research Track).
+-->
 
 ## Citation
 If you find our code or work useful for your research, please cite our work.
